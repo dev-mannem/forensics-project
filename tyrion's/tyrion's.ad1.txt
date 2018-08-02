@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 3.2.0.0 
+
+Case Information: 
+Acquired using: ADI3.2.0.0
+Case Number: 1
+Evidence Number: 2
+Unique Description: Tyrion's
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for C:\Users\Swathi\Documents\SCSU sem3\IA-681\project\tyrion's\tyrion's.ad1:
+[Computed Hashes]
+ MD5 checksum:    03ff1a2b2f87f90a39fe7234ea613a01
+ SHA1 checksum:   e08a02e931a9b994a2907ff511d705951afa81b0
+
+Image information:
+ Acquisition started:   Tue Jul 19 10:30:42 2016
+ Acquisition finished:  Tue Jul 19 10:30:56 2016
+ Segment list:
+  C:\Users\Swathi\Documents\SCSU sem3\IA-681\project\tyrion's\tyrion's.ad1
+
+Image Verification Results:
+ Verification started:  Tue Jul 19 10:30:56 2016
+ Verification finished: Tue Jul 19 10:30:57 2016
+ MD5 checksum:    03ff1a2b2f87f90a39fe7234ea613a01 : verified
+ SHA1 checksum:   e08a02e931a9b994a2907ff511d705951afa81b0 : verified

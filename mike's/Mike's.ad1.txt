@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 3.2.0.0 
+
+Case Information: 
+Acquired using: ADI3.2.0.0
+Case Number: 1
+Evidence Number: 1
+Unique Description: mike's_drive
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for C:\Users\Swathi\Documents\SCSU sem3\IA-681\project\mike's\Mike's.ad1:
+[Computed Hashes]
+ MD5 checksum:    3842a6de6d08f8cc1ff71d63375a534f
+ SHA1 checksum:   f66568e9e6d374b69395a8ff4b6f87a0144332fd
+
+Image information:
+ Acquisition started:   Tue Jul 19 10:28:10 2016
+ Acquisition finished:  Tue Jul 19 10:28:34 2016
+ Segment list:
+  C:\Users\Swathi\Documents\SCSU sem3\IA-681\project\mike's\Mike's.ad1
+
+Image Verification Results:
+ Verification started:  Tue Jul 19 10:28:34 2016
+ Verification finished: Tue Jul 19 10:28:35 2016
+ MD5 checksum:    3842a6de6d08f8cc1ff71d63375a534f : verified
+ SHA1 checksum:   f66568e9e6d374b69395a8ff4b6f87a0144332fd : verified
